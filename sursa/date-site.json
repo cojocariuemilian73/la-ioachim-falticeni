@@ -1,0 +1,303 @@
+{
+  "brand": "La Ioachim",
+  "description": "Shaorma, kebab, kapsalon și crispy la La Ioachim, pe Strada Nicolae Beldiceanu din Fălticeni.",
+  "publicUrl": "https://cojocariuemilian73.github.io/la-ioachim-falticeni/",
+  "atelier": "",
+  "deschidere": "",
+  "linkuri": {
+    "recenzii": "",
+    "harta": "",
+    "instagram": "",
+    "facebook": "",
+    "email": "",
+    "whatsapp": "",
+    "scrieRecenzie": ""
+  },
+  "video": {
+    "youtube": "",
+    "titlu": "",
+    "credit": ""
+  },
+  "meniuExemplu": true,
+  "meniu": [
+    {
+      "id": "shaorma",
+      "nume": "Shaorma",
+      "produse": [
+        {
+          "nume": "Shaorma de pui extra carne",
+          "descriere": "Lipie cu pui, cartofi, legume, murături și sos la alegere · 600 g",
+          "pret": 35.0,
+          "imagine": "wrap"
+        },
+        {
+          "nume": "Shaorma de pui",
+          "descriere": "Lipie cu pui, cartofi, roșii, varză și murături · 550 g",
+          "pret": 30.0
+        },
+        {
+          "nume": "Shaorma medie de pui",
+          "descriere": "Lipie cu pui, cartofi, legume și sos la alegere · 400 g",
+          "pret": 25.0
+        }
+      ]
+    },
+    {
+      "id": "kebab",
+      "nume": "Kebab",
+      "produse": [
+        {
+          "nume": "Kebab de pui extra carne",
+          "descriere": "Chiflă cu pui, legume, murături și sos la alegere · 500 g",
+          "pret": 35.0
+        },
+        {
+          "nume": "Kebab de pui",
+          "descriere": "Chiflă cu pui, varză, roșii, ceapă și murături · 450 g",
+          "pret": 30.0
+        },
+        {
+          "nume": "Kebab la farfurie extra carne",
+          "descriere": "250 g de pui, salată, cartofi prăjiți și sos · 650 g",
+          "pret": 40.0,
+          "imagine": "plate"
+        },
+        {
+          "nume": "Kebab la farfurie",
+          "descriere": "200 g de pui, salată, cartofi prăjiți și sos · 600 g",
+          "pret": 35.0
+        }
+      ]
+    },
+    {
+      "id": "kapsalon",
+      "nume": "Kapsalon",
+      "produse": [
+        {
+          "nume": "Kapsalon extra pui",
+          "descriere": "Pui, cartofi, mozzarella, varză, morcov, ceapă și sos · 500 g",
+          "pret": 40.0
+        },
+        {
+          "nume": "Kapsalon cu pui",
+          "descriere": "Pui, cartofi, mozzarella, varză, morcov, ceapă și sos · 400 g",
+          "pret": 35.0
+        }
+      ]
+    },
+    {
+      "id": "crispy",
+      "nume": "Crispy și burger",
+      "produse": [
+        {
+          "nume": "Meniu crispy · 5 bucăți",
+          "descriere": "Pulpă de pui crocantă, cartofi prăjiți și sos · 350 g",
+          "pret": 33.0,
+          "imagine": "crispy"
+        },
+        {
+          "nume": "Meniu crispy de familie · 10 bucăți",
+          "descriere": "Pulpă de pui crocantă, cartofi prăjiți și sos · 650 g",
+          "pret": 55.0
+        },
+        {
+          "nume": "Hamburger de pui",
+          "descriere": "Chiflă, pui, roșii, brânză topită, cartofi și sos · 300 g",
+          "pret": 20.0
+        }
+      ]
+    },
+    {
+      "id": "de-post",
+      "nume": "De post",
+      "produse": [
+        {
+          "nume": "Kapsalon de post",
+          "descriere": "Burger vegetal, cartofi, legume, mozzarella de post și sos · 500 g",
+          "pret": 35.0
+        },
+        {
+          "nume": "Kebab de post",
+          "descriere": "Chiflă cu burger vegetal, cartofi, legume, murături și sos · 450 g",
+          "pret": 30.0
+        },
+        {
+          "nume": "Shaorma medie de post",
+          "descriere": "Lipie, burger vegetal, cartofi, legume și sos · 350 g",
+          "pret": 25.0
+        },
+        {
+          "nume": "Shaorma de post",
+          "descriere": "Lipie, burger vegetal, cartofi, legume și sos · 500 g",
+          "pret": 30.0
+        }
+      ]
+    }
+  ],
+  "evaluareGoogle": {},
+  "recenzii": [],
+  "fotografiiIlustrative": true,
+  "eticheteIlustrative": false,
+  "surseFoto": [
+    {
+      "nume": "Pexels 1",
+      "url": "https://www.pexels.com/photo/15202777/"
+    },
+    {
+      "nume": "Pexels 2",
+      "url": "https://www.pexels.com/photo/34106235/"
+    },
+    {
+      "nume": "Pexels 3",
+      "url": "https://www.pexels.com/photo/25856533/"
+    },
+    {
+      "nume": "Pexels 4",
+      "url": "https://www.pexels.com/photo/27497770/"
+    }
+  ],
+  "imagini": {
+    "share": {
+      "fisier": "share.jpg",
+      "latime": 1200,
+      "inaltime": 630,
+      "alt": "Lipie cu carne, cartofi prăjiți și sos",
+      "ilustrativa": true
+    },
+    "hero": {
+      "fisier": "hero.webp",
+      "latime": 1800,
+      "inaltime": 1080,
+      "alt": "Lipie cu carne, cartofi prăjiți și sos",
+      "ilustrativa": true,
+      "mobil": "hero-mobil.webp",
+      "latimeMobil": 780,
+      "inaltimeMobil": 1040
+    },
+    "wrap": {
+      "fisier": "wrap.webp",
+      "latime": 1024,
+      "inaltime": 760,
+      "alt": "Lipie umplută, cu cartofi prăjiți",
+      "ilustrativa": true
+    },
+    "plate": {
+      "fisier": "plate.webp",
+      "latime": 1024,
+      "inaltime": 760,
+      "alt": "Lipii, salată și cartofi pe o masă",
+      "ilustrativa": true
+    },
+    "crispy": {
+      "fisier": "crispy.webp",
+      "latime": 1024,
+      "inaltime": 760,
+      "alt": "Pui crocant cu salată și sos",
+      "ilustrativa": true
+    }
+  },
+  "extra": {
+    "activ": false
+  },
+  "locatii": [
+    {
+      "oras": "Fălticeni",
+      "judet": "Suceava",
+      "adresa": "Strada Nicolae Beldiceanu 5",
+      "telefon": "+40 791 201 308",
+      "cautareHarta": "Strada Nicolae Beldiceanu 5, Fălticeni",
+      "reper": "",
+      "program": [
+        {
+          "zile": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "deschide": "09:00",
+          "inchide": "19:00"
+        },
+        {
+          "zile": [
+            "Saturday"
+          ],
+          "deschide": "10:00",
+          "inchide": "18:00"
+        }
+      ],
+      "latitudine": null,
+      "longitudine": null
+    }
+  ],
+  "texte": {
+    "titluPagina": "La Ioachim · Shaorma și kebab în Fălticeni",
+    "logo": {
+      "mare": "La Ioachim",
+      "mic": "FĂLTICENI"
+    },
+    "hero": "Shaorma, kebab|și kapsalon.",
+    "heroCuvinteAurii": [],
+    "navGalerie": "Galerie",
+    "poveste": {
+      "titlu": "",
+      "lead": "",
+      "text": "",
+      "imagineMare": "wrap",
+      "imagineMica": "plate"
+    },
+    "galerie": {
+      "titlu": "În lipie sau|la farfurie.",
+      "text": "Shaormaua vine în lipie, kebabul și la farfurie, iar kapsalonul are cartofi și mozzarella. Meniul include și preparate de post.",
+      "imagini": [
+        "wrap",
+        "plate",
+        "crispy"
+      ]
+    },
+    "meniu": "Meniu",
+    "recenzii": "Recenzii",
+    "locatii": "Unde ne găsești.",
+    "subsol": "Shaorma și kebab în Fălticeni.",
+    "paginaMeniu": {
+      "titlu": "Meniu · La Ioachim",
+      "descriere": "Shaorma, kebab, kapsalon și crispy la La Ioachim, pe Strada Nicolae Beldiceanu din Fălticeni.",
+      "linkPoveste": "Înapoi la site",
+      "imagine": "hero"
+    }
+  },
+  "folderImagini": "assets/img/restaurant/",
+  "filtre": [],
+  "_sursaMeniu": {
+    "valabilitate": "De confirmat cu restaurantul",
+    "surse": [
+      [
+        "Meniu și prețuri",
+        "https://www.shaormap.ro/falticeni/la-ioachim/meniu"
+      ],
+      [
+        "Contact și program",
+        "https://www.shaormap.ro/falticeni/la-ioachim"
+      ]
+    ]
+  },
+  "comenzi": {
+    "activ": true,
+    "prezentare": true,
+    "exemple": false,
+    "supabaseUrl": "",
+    "supabaseCheie": "",
+    "ridicare": {},
+    "livrare": {
+      "activ": false
+    },
+    "grupuri": {},
+    "categorii": {}
+  },
+  "tema": {
+    "css": "assets/css/tema-site.css",
+    "culoare": "#f9f0e4",
+    "schema": "only light"
+  }
+}
