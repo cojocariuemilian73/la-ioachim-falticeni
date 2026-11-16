@@ -81,7 +81,8 @@
         {
           "nume": "Kapsalon cu pui",
           "descriere": "Pui, cartofi, mozzarella, varză, morcov, ceapă și sos · 400 g",
-          "pret": 35.0
+          "pret": 35.0,
+          "imagine": "kapsalon"
         }
       ]
     },
@@ -154,6 +155,14 @@
     {
       "nume": "Pexels 4",
       "url": "https://www.pexels.com/photo/27497770/"
+    },
+    {
+      "nume": "Amin · Kapsalon cu cartofi, carne și salată într-o caserolă (decupată)",
+      "url": "https://commons.wikimedia.org/wiki/File:Kapsalon_dutch_meal.jpg"
+    },
+    {
+      "nume": "CC BY-SA 4.0",
+      "url": "https://creativecommons.org/licenses/by-sa/4.0/"
     }
   ],
   "imagini": {
@@ -194,10 +203,34 @@
       "inaltime": 760,
       "alt": "Pui crocant cu salată și sos",
       "ilustrativa": true
+    },
+    "kapsalon": {
+      "fisier": "kapsalon.webp",
+      "latime": 720,
+      "inaltime": 720,
+      "alt": "Kapsalon cu cartofi, carne și salată într-o caserolă",
+      "ilustrativa": true
     }
   },
   "extra": {
-    "activ": false
+    "activ": true,
+    "sectiuni": [
+      "specialitati"
+    ],
+    "specialitati": {
+      "titlu": "Specialități",
+      "text": "Shaorma în lipie, kapsalon cu mozzarella și pui crispy.",
+      "produse": [
+        "Shaorma de pui extra carne",
+        "Kapsalon cu pui",
+        "Meniu crispy · 5 bucăți"
+      ],
+      "tente": {
+        "Shaorma de pui extra carne": "#da9d65",
+        "Kapsalon cu pui": "#b5bd78",
+        "Meniu crispy · 5 bucăți": "#e0a172"
+      }
+    }
   },
   "locatii": [
     {

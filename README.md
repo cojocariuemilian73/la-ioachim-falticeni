@@ -23,3 +23,7 @@ Imaginile reprezintă preparate și spații de referință, cu [licență Pexels
 - [Lipie umplută, cu cartofi prăjiți](https://www.pexels.com/photo/34106235/)
 - [Lipii, salată și cartofi pe o masă](https://www.pexels.com/photo/25856533/)
 - [Pui crocant cu salată și sos](https://www.pexels.com/photo/27497770/)
+
+## Fotografii pentru specialități
+
+- [Kapsalon cu cartofi, carne și salată într-o caserolă](https://commons.wikimedia.org/wiki/File:Kapsalon_dutch_meal.jpg), fotografie de Amin, [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/). Versiunile decupate și redimensionate păstrează licența fotografiei.
